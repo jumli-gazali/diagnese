@@ -4,4 +4,5 @@
 ECHO is on.
 diagnese-app/
 *.ipynb
+Model h5/
 >>>>>>> b9fbc278ddff0e03a15a0d4f25e44805efec9840
